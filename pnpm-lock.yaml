@@ -13,8 +13,8 @@ importers:
   .:
     dependencies:
       '@cto.af/utils':
-        specifier: 1.4.1
-        version: 1.4.1
+        specifier: 1.4.2
+        version: 1.4.2
       pino:
         specifier: 10.3.1
         version: 10.3.1
@@ -60,8 +60,8 @@ packages:
     resolution: {integrity: sha512-o0Pv/Tcdklmr+jXEn5WBjBReggaLo5BgSbgsQUCa+AB0glM33UJTxMi4TpbNEY+mc8IvY+1TUBLRZLRPFfXgBw==}
     engines: {node: '>=20'}
 
-  '@cto.af/utils@1.4.1':
-    resolution: {integrity: sha512-/2D/33nkS1C8HLo/zFZ6cEEHYKCPhXbSYkQzqCZX4nZQpH205gZ/A73wI3gDLI2sMo4EbFyR+Em+JHqa9Fu2oA==}
+  '@cto.af/utils@1.4.2':
+    resolution: {integrity: sha512-ngPvTHm/3rzKLWLqE58k7F5nUUCxA+XqhpollmfGm4m148vtOPhpZTW1fiEjq2nfLmJSWT6rDz6qXK8jg7374g==}
     engines: {node: '>=20'}
 
   '@es-joy/jsdoccomment@0.84.0':
@@ -1560,7 +1560,7 @@ snapshots:
       - eslint
       - typescript
 
-  '@cto.af/utils@1.4.1': {}
+  '@cto.af/utils@1.4.2': {}
 
   '@es-joy/jsdoccomment@0.84.0':
     dependencies:
