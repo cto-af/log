@@ -47,7 +47,8 @@
   "packageManager": "pnpm@10.30.3",
   "pnpm": {
     "overrides": {
-      "typedoc@0.28.17>minimatch": "10.2.4"
+      "typedoc@0.28.17>minimatch": "10.2.4",
+      "c8@11.0.0>yargs": "18.0.0"
     }
   },
   "engines": {
