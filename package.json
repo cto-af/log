@@ -29,7 +29,7 @@
     "build": "npm run test && npm run lint && npm run docs && npm pack --dry-run"
   },
   "dependencies": {
-    "@cto.af/utils": "1.4.1",
+    "@cto.af/utils": "1.4.2",
     "pino": "10.3.1",
     "pino-pretty": "13.1.3"
   },
